@@ -23,9 +23,7 @@
  <a href="#autor" style="text-decoration: none">Autor</a>
 </p>
 
-<h4 align="center"> 
-	🚧  React Select 🚀 Em construção...  🚧
-</h4>
+<h3 align="center">🚀 Projeto Concluído 🚀</h3>
 
 <h2 id="funcionalidades">✔️ Funcionalidades</h2>
 
