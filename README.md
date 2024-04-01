@@ -1,9 +1,9 @@
 <p align="center">
   <img src="src/assets/ignite-logo.svg" alt="" />
-  <p>Ignite Feed</p>
+  <h1>Ignite Feed</h1>
 </p>
 
-Esta é uma aplicação de um feed, de uma rede social feito em React.
+Esta é uma aplicação de um feed, de uma rede social, feito em React.
 
 <img src="src/assets/cover.png" alt=""/>
 
